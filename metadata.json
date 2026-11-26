@@ -1,0 +1,6 @@
+{
+  "name": "MandarinKita HSK 1",
+  "description": "Aplikasi web interaktif belajar bahasa Mandarin tingkat HSK 1 untuk penutur bahasa Indonesia dengan 400 kosakata, panduan nada, flashcard, kuis, dan tutor AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
